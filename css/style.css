@@ -1,0 +1,9 @@
+.container{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+}
+
+input[type="button"]{
+    margin: 20px;
+}
